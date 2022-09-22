@@ -1,4 +1,4 @@
-Task 1 of Celebal Summer Internship
+<h1>Task 1 of Celebal Summer Internship</h1>
 
 Task 1: Basic CRUD Application Using FastAPI 
 
